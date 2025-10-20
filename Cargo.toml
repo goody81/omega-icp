@@ -1,0 +1,11 @@
+[dependencies]
+# Add your dependencies here
+
+[package]
+name = "omega-icp"
+version = "0.1.0"
+edition = "2018"
+
+# Update interface module
+[lib]
+path = "src/lib.rs"
